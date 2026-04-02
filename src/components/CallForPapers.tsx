@@ -35,7 +35,9 @@ const CallForPapers = () => (
         </div>
 
         <a
-          href="#register"
+          href="https://onegrasp.com/conference-events/ivc-on-computer-science-information-technology-software-engineering-2026/"
+          target="_blank"
+          rel="noopener noreferrer"
           className="inline-flex gradient-sky text-primary-foreground font-bold px-8 py-3.5 rounded-full shadow-sky-glow hover:scale-105 transition-transform"
         >
           Submit Abstract Now
