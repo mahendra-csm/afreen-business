@@ -67,7 +67,7 @@ const HeroSection = () => (
         transition={{ delay: 0.3 }}
         className="flex flex-wrap items-center justify-center gap-6 text-primary-foreground/90 text-sm sm:text-base mb-3"
       >
-        <span className="flex items-center gap-2"><Calendar size={18} /> 16th & 17th April 2026</span>
+        <span className="flex items-center gap-2"><Calendar size={18} /> 17th & 18th April 2026</span>
         <span className="flex items-center gap-2"><Globe size={18} /> Online Conference</span>
         <span className="flex items-center gap-2"><Users size={18} /> Global Participation</span>
       </motion.div>
