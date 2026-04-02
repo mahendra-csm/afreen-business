@@ -113,7 +113,9 @@ const HeroSection = () => (
           Register Now
         </a>
         <a
-          href="#call-for-papers"
+          href="https://onegrasp.com/conference-events/ivc-on-computer-science-information-technology-software-engineering-2026/"
+          target="_blank"
+          rel="noopener noreferrer"
           className="border-2 border-primary-foreground/40 text-primary-foreground font-bold text-base px-8 py-3.5 rounded-full hover:bg-primary-foreground/10 transition-colors"
         >
           Submit Abstract
